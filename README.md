@@ -1,4 +1,4 @@
-# vigilancia_epidemiologica
+# Vigilancia Epidemiologica
 This project contains the result of the master's project by Amauri Duarte da Silva entitled "Epidemiological Surveillance: Use of Machine Learning to Predict Severe Acute Respiratory Syndrome Outbreaks" (UFCSPA Mar/2022)
 
 ## Knime
