@@ -1,0 +1,13 @@
+name: notificacoes_app
+title: notificacoes_app
+username:
+account: srag
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4781877
+bundleId: 5806903
+url: https://srag.shinyapps.io/notificacoes_app/
+when: 1650204676.66977
+lastSyncTime: 1650204676.66978
+asMultiple: FALSE
+asStatic: FALSE
