@@ -1,5 +1,5 @@
-# Vigilancia Epidemiologica
-This project contains the result of the master's project by Amauri Duarte da Silva entitled "Epidemiological Surveillance: Use of Machine Learning to Predict Severe Acute Respiratory Syndrome Outbreaks" (UFCSPA Mar/2022)
+# Epidemiological Surveillance
+This project contains the result of the master's project by Amauri Duarte da Silva entitled "Epidemiological Surveillance: Use of Machine Learning to Predict Severe Acute Respiratory Syndrome Outbreaks" (UFCSPA Mar/2022).
 
 ## Knime
 1) The "csv Reader" nodes have possible paths to the data sets used. This must be adjusted according to the location of the data sets on your machine. 
